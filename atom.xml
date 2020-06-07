@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/Blog/</id>
 	<title>Blog</title>
-	<updated>2020-06-07T01:29:02-05:00</updated>
+	<updated>2020-06-07T02:05:17-05:00</updated>
 
 	<subtitle>This is my personal blog where you can find all my projects.</subtitle>
 
@@ -24,7 +24,7 @@
 	<link href="http://localhost:4000/Blog/atom.xml" rel="self" type="application/rss+xml" />
 	<link href="http://localhost:4000/Blog/" rel="alternate" type="text/html" />
 
-	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
+	<generator uri="http://jekyllrb.com" version="3.8.7">Jekyll</generator>
 
 	
 		<entry>
@@ -37,8 +37,10 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -99,8 +101,10 @@
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -565,8 +569,10 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -596,8 +602,10 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -660,8 +668,10 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -728,8 +738,10 @@ image:
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -797,8 +809,10 @@ image:
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -858,8 +872,10 @@ image:
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -931,8 +947,10 @@ image:
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
@@ -1000,8 +1018,10 @@ image:
 				
 				<author>
 					
-						<name>phlow</name>
+						<name>Wenses Penadillo</name>
 					
+					
+						<email>wenses400@gmail.com</email>
 					
 					
 				</author>
